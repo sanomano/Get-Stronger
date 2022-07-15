@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.app{
+  background: linear-gradient(to bottom, rgba(255,255,255,0) 10%, rgb(0, 0, 0)), url("../../Untitled-4.jpg");
+  background-size: 100px;
+  height: 100vh;
+  background-color: blue;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
